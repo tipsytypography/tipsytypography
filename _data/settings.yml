@@ -2,9 +2,9 @@ title: Tipsy Typography
 description: A website with a blog
 header_text: Tipsy Typography
 footer_text: Copyright 2020 Abby Shaw
-header_feature_image: ../uploads/pages.jpg
+header_feature_image: ../uploads/your-paragraph-text-1-.png
 bannerheight: 20vmax
-logo: /uploads/logo.jpg
+logo: ../uploads/your-paragraph-text.png
 favicon: /uploads/favicon.ico
 gridlayout: false
 fixednavbar: false
