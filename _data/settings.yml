@@ -5,7 +5,7 @@ footer_text: Copyright 2020 Abby Shaw
 header_feature_image: ../uploads/tipsytypographybanner.png
 bannerheight: 20vmax
 logo: ../uploads/your-paragraph-text.png
-favicon: /uploads/favicon.ico
+favicon: ../uploads/your-paragraph-text.png
 gridlayout: false
 fixednavbar: false
 upzoom: true
