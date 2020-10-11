@@ -39,6 +39,6 @@ Jameson was established in [1780 in Ireland by John Jameson](https://www.jameson
 
 The typography used in Jameson's branding suggests the idea that Jameson is a traditional, trusted brand, much like that of Glenfiddich. The type is thin and elegant in comparison to the American bold serifs used in Jack Daniel's and Jim Beam branding. The slick style of type perhaps targets a wider audience than the masculine American brands.
 
-## In Summary 
+## In summary
 
 The most obvious differences in whiskey brand typography is that the typefaces differ depending on what country they are from. American whiskey brands tend to opt for bold, serif types to target a mainly-masculine audience whereas the Scottish and Irish whiskey brands opt for more elegant and traditional serif types. All the brands explored have the serif types in common but what is most interesting is how this use of serifs differs.
