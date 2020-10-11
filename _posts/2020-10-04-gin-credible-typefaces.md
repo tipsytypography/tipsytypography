@@ -20,19 +20,19 @@ With so many gin brands out there, I thought it was worth looking into the typef
 
 The original Gordon’s type used on its gins sold in Britain is an eloquent, script-style typeface [created by Andy Benedek](https://www.myfonts.com/person/Andy_Benedek/?details). The condensed line of the typeface and its scripted-manner gives the idea that Gordon’s is a traditional brand for a traditional audience. The cap-height is tall but the X-height is quite short. As it is a London-based gin, the type could be considered to be almost regal in its cursive manner.
 
-The other Gordon’s typeface is quite different in comparison, using a bold serif font with a shadow effect on it.  The cap-height is quite tallT, with low contrast, monospaced letters. The exact type is not known but the closest one to it is [LHF Hensler Regular, designed by Chuck Davis.](https://deltafonts.com/gordons-gin-font/)
+The other Gordon’s typeface is quite different in comparison, using a bold serif font with a shadow effect on it.  The cap-height is quite tall, with high contrast, monospaced letters. The exact type is not known but the closest one to it is [LHF Hensler Regular, designed by Chuck Davis.](https://deltafonts.com/gordons-gin-font/)
 
 ![](../uploads/louis-hansel-shotsoflouis-gko0ca66o5u-unsplash.jpg "Tanqueray gin")
 
 ## Tanqueray
 
-Tanqueray was created back in the 1830s by [Charles Tanqueray in Bloomsbury, London](https://www.diageo.com/en/our-brands/brand-profiles/tanqueray/). The brand uses a thin script for its typeface with a cap-height that is not much taller than the X-height of the main lettering and the type is monospaced and low contrast, similar to that of Gordon’s. Like with Gordon’s, the scripted typeface targets Tanqueray’s intended audience of traditional gin drinkers that are likely to be more middle-class. It is also a London-based gin that’s been around for nearly two hundred years, so its traditional style of type matches up with the brand’s heritage.
+Tanqueray was created back in the 1830s by [Charles Tanqueray in Bloomsbury, London](https://www.diageo.com/en/our-brands/brand-profiles/tanqueray/). The brand uses a thin script for its typeface with a cap-height that is not much taller than the X-height of the main lettering and the type is monospaced and high contrast, similar to that of Gordon’s. Like with Gordon’s, the scripted typeface targets Tanqueray’s intended audience of traditional gin drinkers that are likely to be more middle-class. It is also a London-based gin that’s been around for nearly two hundred years, so its traditional style of type matches up with the brand’s heritage.
 
 ![](../uploads/annie-spratt-uucpxitescm-unsplash.jpg "Bombay Sapphire gin")
 
 ## Bombay Sapphire
 
-Bombay Sapphire was [launched in 1987 and distributed by Bacardi](https://www.ginfoundry.com/gin/bombay-sapphire-gin/). The actual typeface that Bombay Sapphire uses is unknown but they use a classic but bold serif font; the type is monospaced and of low contrast. The use of the serif typeface conveys the idea of “[class and heritage”](https://fabrikbrands.com/font-psychology-and-typography-inspiration-in-logo-design/) and “[serif fonts carry feelings of trust and respectability”](https://fabrikbrands.com/font-psychology-and-typography-inspiration-in-logo-design/) so moreover, it can be said that their typeface conveys that the brand is traditional and is respected in the gin market, representing how it is one of the most popular gins amongst traditional gin drinkers.
+Bombay Sapphire was [launched in 1987 and distributed by Bacardi](https://www.ginfoundry.com/gin/bombay-sapphire-gin/). The actual typeface that Bombay Sapphire uses is unknown but they use a classic but bold serif font; the type is monospaced and of high contrast. The use of the serif typeface conveys the idea of “[class and heritage”](https://fabrikbrands.com/font-psychology-and-typography-inspiration-in-logo-design/) and “[serif fonts carry feelings of trust and respectability”](https://fabrikbrands.com/font-psychology-and-typography-inspiration-in-logo-design/) so moreover, it can be said that their typeface conveys that the brand is traditional and is respected in the gin market, representing how it is one of the most popular gins amongst traditional gin drinkers.
 
 ## Whitley Neill
 
