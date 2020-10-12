@@ -7,5 +7,6 @@ bannerheight: 20vmax
 logo: ../uploads/ttlogofinal2.png
 favicon: ../uploads/ttlogo3.png
 gridlayout: false
-fixednavbar: false
+fixednavbar: true
 upzoom: true
+items: []
