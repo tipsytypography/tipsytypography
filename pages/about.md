@@ -8,7 +8,7 @@ header_feature_image: ../uploads/ttbanner1.png
 published: true
 tags: null
 description: null
-show: false
+show: true
 ---
 Tipsy Typography began with a day dream. Sat brainstorming ideas and looking around my university bedroom for inspiration, a couple of bottles of alcohol caught my eye. I was struck by the differences in typefaces used and how they differed depending on the type of alcohol they were and the branding as a whole. And just like that, with that 'alcoholic' student stereotype staring me in the face, Tipsy Typography was born.
 
