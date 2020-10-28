@@ -10,7 +10,7 @@ body {
 .introduction_section {
 	height: 700px;
 	width: 100%;
-	background-image: url("file:///Users/abbyshaw/Downloads/tipsytypography-master/aboutme/images/newyorkskyline.jpg");
+	background-image: url("../images/newyorkskyline.jpg");
 	background-size: cover;
 }
 
@@ -21,7 +21,7 @@ body {
 }
 
 .profile_picture {
-	background-image: url("file:///Users/abbyshaw/Downloads/tipsytypography-master/aboutme/images/IMG_7094.JPG");
+	background-image: url("../images/IMG_7094.JPG");
 	background-position: center;
 	width: 160px;
 	height: 160px;
