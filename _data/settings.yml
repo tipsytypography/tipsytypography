@@ -9,4 +9,6 @@ favicon: ../uploads/ttlogo3.png
 gridlayout: false
 fixednavbar: true
 upzoom: true
-items: []
+items:
+  - name: About Abby Shaw
+    siteurl: /aboutme
